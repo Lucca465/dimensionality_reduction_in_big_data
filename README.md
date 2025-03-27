@@ -1,4 +1,4 @@
-# dimensionality_reduction_in_big_data
+# Redução da Dimensionalidade em Big Data usando PCA, LDA e Kernel PCA
 Devido a revolução tecnológica, mais dados estão sendo gerados no
 dia a dia de forma exponencial, causando problemas de processamento e de
 armazenamento. Por este motivo, este projeto de TCC busca por meio dos
